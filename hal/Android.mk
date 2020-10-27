@@ -259,6 +259,7 @@ LOCAL_C_INCLUDES += \
         external/expat/lib \
         hardware/libhardware/include \
         system/media/audio_utils/include \
+        device/xiaomi/kenzo/include \
         $(call include-path-for, audio-route) \
         $(call include-path-for, audio-effects) \
         $(LOCAL_PATH)/$(AUDIO_PLATFORM) \
